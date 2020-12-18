@@ -1,3 +1,11 @@
+# AWS SYSOPS 
+![](https://static1.shine.com/l/m/images/blog/How_to_prepare_for_the_AWS_SysOps_Admin_certification_Exam.png)
+
+# Navigation  
+
+[CLI](#CLI)  
+[SKD](#SDK)  
+
 # CLI 
 
 ## Install  
@@ -141,6 +149,12 @@ final part is to execute script
 - slightly different from previous example. 
   
 ![](images/lambdacli.png)
+
+# CLI - QUESTION  
+  
+![](images/CLIQUESTION.png)  
+  
+anser = c
 
 
 ```python
